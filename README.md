@@ -231,3 +231,7 @@ In the 1.14 and future updates, they have added a tab in the resource pack menu 
 
     - Water texture more closely matches the original water texture
 </details>
+
+Official Subreddit (https://www.reddit.com/r/developer_art_plus/)
+
+Official Discord Server (https://discord.gg/WQkgvNp)
