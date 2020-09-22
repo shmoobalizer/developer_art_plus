@@ -238,7 +238,7 @@ Official Discord Server (https://discord.gg/WQkgvNp)
 
 ![pack_icon.png](./images/pack.png "Pack Icon")
 ![furnaces-campfire.png](./images/furnaces-campfire.png "Campfire and Furnaces")
-![work_blocks.png](./images/pack.png "Lectern and Workstations")
+![work_blocks.png](./images/work_blocks.png "Lectern and Workstations")
 ![crimson-warped.png](./images/crimson-warped.png "Crimson and Warped")
 ![nether_blocks.png](./images/nether-blocks.png "Nether Blocks")
 ![items.png](./images/items.png "Items")
