@@ -21,3 +21,15 @@ In the 1.14 and future updates, they have added a tab in the resource pack menu 
 
     * I will also be taking comments and suggestions into consideration as I know I am not the authority on what defines the original style.
 </details>
+
+<b>(if you like this project, a star would be much appreciated :D, and if you know anyone that might like it, please share it with them!)</b>
+
+<details>
+  <summary>More Information</summary>
+  
+    * This pack works in versions 1.14 and beyond (including snapshot support),
+
+    * I will be updating this pack as updates, snapshots, and pre-releases come out,
+
+    * I will also be taking comments and suggestions into consideration as I know I am not the authority on what defines the original style.
+</details>
