@@ -1,7 +1,6 @@
 # Developer Art+
 Developer Art+ is a Minecraft resource pack for those who prefer the older style of Minecraft textures. 
 
-<br>
 <b>(this pack must be used over top of the "Programmer Art" pack if you wish to use it in versions after 1.13.2)
 
 (if you are using the Bedrock Edition, you need to have the "Classic Textures" pack applied below this pack)</b>
@@ -24,6 +23,7 @@ In the 1.14 and future updates, they have added a tab in the resource pack menu 
 
 <b>(if you like this project, a star would be much appreciated :D, and if you know anyone that might like it, please share it with them!)</b>
 
+<br>
 <details>
   <summary>More Information</summary>
   
