@@ -236,4 +236,14 @@ Official Subreddit (https://www.reddit.com/r/developer_art_plus/)
 
 Official Discord Server (https://discord.gg/WQkgvNp)
 
-![alt text](./images/pack.png "Title")
+![pack_icon.png](./images/pack.png "Pack Icon")
+![furnaces-campfire.png](./images/furnaces-campfire.png "Campfire and Furnaces")
+![work_blocks.png](./images/pack.png "Lectern and Workstations")
+![crimson-warped.png](./images/crimson-warped.png "Crimson and Warped")
+![nether_blocks.png](./images/nether-blocks.png "Nether Blocks")
+![items.png](./images/items.png "Items")
+![piglins.png](./images/piglins.png "Piglins")
+![crimson-warped.png](./images/villager-pillager.png "Villager and Pillager")
+![status_effects.png](./images/status_effects.png "Status Effects")
+![font.png](./images/font.png "Punctuation")
+
