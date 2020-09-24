@@ -235,7 +235,7 @@ In the 1.14 and future updates, they have added a tab in the resource pack menu 
 <details>
   <summary>ADDONS</summary>
   
-  [SHM Classic](https://github.com/shmoobalizer/shm_classic) (Recreates the classic Minecraft feel, roughly approximates the visual style of Beta 1.6.6, plus some other goodies :D )
+    [SHM Classic](https://github.com/shmoobalizer/shm_classic) (Recreates the classic Minecraft feel, roughly approximates the visual style of Beta 1.6.6, plus some other goodies :D )
 </details>
 
 Official Subreddit (https://www.reddit.com/r/developer_art_plus/)
