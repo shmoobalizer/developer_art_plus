@@ -1,0 +1,26 @@
+1. Palette-swap soul soil from
+#31231C,#3D2D23,#4C392D,#664D40,#7D6355;
+to:
+#322116,#38261B,#483428,#624B3D,#7E6657;
+
+2. create a separate layer which is entirely grey, 
+set the blending mode to "overlay"
+
+3. apply noise to that layer,
+
+Noise settings:
+
+Intensity: unknown,
+Color Saturation: 0,
+Coverage: 100.00;
+
+4. Go over bad areas manually. 
+
+5. Fix tiling with self and with soul sand. 
+
+6. Go over bad areas manually (again). 
+
+7. Mess with brightness/contrast, and levels until it doesn't look bad. 
+
+8. Correct saturation and hue if necessary. 
+
