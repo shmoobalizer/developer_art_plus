@@ -1,0 +1,2 @@
+based on DA+ deepslate and PA iron ore 
+(with streaking inspired by the development deepslate iron ore).

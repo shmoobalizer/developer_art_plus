@@ -1,0 +1,1 @@
+based on PA podzol with minor adjustments.

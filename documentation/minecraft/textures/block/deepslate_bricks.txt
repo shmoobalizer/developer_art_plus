@@ -1,0 +1,2 @@
+based on PA stone bricks with shading adjustments 
+(and a slight gradient on the face of each brick).

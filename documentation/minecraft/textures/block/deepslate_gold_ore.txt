@@ -1,0 +1,2 @@
+based on DA+ deepslate and PA gold ore 
+(with reshaping inspired by the default deepslate gold ore).

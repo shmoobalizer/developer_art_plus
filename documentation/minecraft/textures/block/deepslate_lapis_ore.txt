@@ -1,0 +1,2 @@
+based on DA+ deepslate and PA lapis ore 
+(with reshading inspired by the default deepslate lapis ore).

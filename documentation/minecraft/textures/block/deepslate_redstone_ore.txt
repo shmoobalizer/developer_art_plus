@@ -1,0 +1,2 @@
+based on DA+ deepslate and PA redstone ore 
+(with streaking inspired by the default deepslate redstone ore).

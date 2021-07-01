@@ -1,0 +1,2 @@
+uses plank texture from classic 0.0.9a 
+which preceeds the inclusion of knots/nails.
