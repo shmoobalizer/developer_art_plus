@@ -25,7 +25,7 @@ In the 1.14 and future updates, they have added a tab in the resource pack menu 
 
 <br>
 <details>
-  <summary>SPECIFIC CHANGES IN THIS PACK</summary>
+  <summary>SPECIFIC CHANGES IN THIS PACK (outdated)</summary>
   
     - Pre-snapshot hoglin texture
 
