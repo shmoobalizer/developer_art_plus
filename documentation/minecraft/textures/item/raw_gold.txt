@@ -1,0 +1,1 @@
+based on default texture and PA ingot, color blended from PA gold ore and ingot.
